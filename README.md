@@ -69,6 +69,9 @@ Projects must demonstrate meaningful adoption (stars, forks, contributors, or in
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) – Webfont containing icons for popular payment methods and card networks.
 - [payment-webfont](https://github.com/orlandotm/payment-webfont) – SVG webfont of payment system and ecommerce icons for web applications.
 
+## Learning Resources
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) – Patterns for building software that handles money.
+
 ---
 
 Contributions welcome. Submit PRs for actively maintained, high-traction open source projects that provide clear value to fintech developers building real financial infrastructure. Projects should have meaningful commit history beyond initial creation and demonstrate usage outside the original authors.
